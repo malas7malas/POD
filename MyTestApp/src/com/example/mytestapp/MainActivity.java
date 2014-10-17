@@ -79,7 +79,7 @@ public class MainActivity extends ActionBarActivity {
 	protected void onDestroy() {
 		// TODO Auto-generated method stub
 		super.onDestroy();
-		Log.d("Life Cycle", "onDestroy was called");
+		Log.d("Life Cycle", "onDestroys was called");
 		
 	}
 
